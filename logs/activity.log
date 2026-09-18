@@ -1,0 +1,35 @@
+2026-09-18 17:48:38 | INFO    | Database initialized successfully.
+2026-09-18 17:48:38 | ERROR   | Error adding member 'Alice Smith': no such table: members
+2026-09-18 17:48:38 | INFO    | Database initialized successfully.
+2026-09-18 17:48:38 | ERROR   | Error adding member 'Alice Smith': no such table: members
+2026-09-18 17:48:38 | INFO    | Database initialized successfully.
+2026-09-18 17:48:38 | ERROR   | Error adding member 'Alice Smith': no such table: members
+2026-09-18 17:48:38 | INFO    | Database initialized successfully.
+2026-09-18 17:48:38 | ERROR   | Error adding member 'Alice Smith': no such table: members
+2026-09-18 17:48:38 | INFO    | Database initialized successfully.
+2026-09-18 17:48:38 | ERROR   | Error adding member 'Alice Smith': no such table: members
+2026-09-18 17:49:19 | INFO    | Database initialized successfully.
+2026-09-18 17:49:19 | INFO    | Added member id=1 name='Alice Smith'
+2026-09-18 17:49:19 | INFO    | Added book id=1 title='Clean Code'
+2026-09-18 17:49:19 | INFO    | Issued book id=1 to member id=1 (borrow id=1, due=2026-10-02)
+2026-09-18 17:49:19 | INFO    | Returned borrow id=1 (on-time, 0 days late)
+2026-09-18 17:49:19 | INFO    | Database initialized successfully.
+2026-09-18 17:49:19 | INFO    | Added member id=1 name='Alice Smith'
+2026-09-18 17:49:19 | INFO    | Added book id=1 title='Clean Code'
+2026-09-18 17:49:19 | INFO    | Issued book id=1 to member id=1 (borrow id=1, due=2026-10-02)
+2026-09-18 17:49:19 | INFO    | Issued book id=1 to member id=1 (borrow id=2, due=2026-10-02)
+2026-09-18 17:49:19 | INFO    | Issued book id=1 to member id=1 (borrow id=3, due=2026-10-02)
+2026-09-18 17:49:19 | INFO    | Database initialized successfully.
+2026-09-18 17:49:19 | INFO    | Added member id=1 name='Alice Smith'
+2026-09-18 17:49:19 | INFO    | Added book id=1 title='Clean Code'
+2026-09-18 17:49:19 | INFO    | Issued book id=1 to member id=1 (borrow id=1, due=2026-10-02)
+2026-09-18 17:49:19 | INFO    | Database initialized successfully.
+2026-09-18 17:49:20 | INFO    | Added member id=1 name='Alice Smith'
+2026-09-18 17:49:20 | INFO    | Added book id=1 title='Clean Code'
+2026-09-18 17:49:20 | INFO    | Issued book id=1 to member id=1 (borrow id=1, due=2026-10-02)
+2026-09-18 17:49:20 | INFO    | Returned borrow id=1 (on-time, 0 days late)
+2026-09-18 17:49:20 | INFO    | Database initialized successfully.
+2026-09-18 17:49:20 | INFO    | Added member id=1 name='Alice Smith'
+2026-09-18 17:49:20 | INFO    | Added book id=1 title='Clean Code'
+2026-09-18 17:49:20 | INFO    | Issued book id=1 to member id=1 (borrow id=1, due=2026-09-12)
+2026-09-18 17:49:20 | INFO    | Returned borrow id=1 (OVERDUE, 6 days late)
