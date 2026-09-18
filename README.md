@@ -85,7 +85,7 @@ python --version
 ### Clone / Download
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/jaitikkas/VIT.git
 cd smart_library
 ```
 
