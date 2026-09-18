@@ -4,13 +4,13 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
 Smart Library is a CLI application that lets you manage a small library's members, book inventory, and borrowing activity — all from the terminal. No external database server or GUI is required.
 
 ---
 
-## ✨ Features
+##  Features
 
 | Area | Capabilities |
 |------|-------------|
@@ -37,7 +37,7 @@ Smart Library is a CLI application that lets you manage a small library's member
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 smart_library/
@@ -69,7 +69,7 @@ smart_library/
 
 ---
 
-## 🚀 Setup & Run
+##  Setup & Run
 
 ### Prerequisites
 
@@ -101,7 +101,7 @@ You'll see the main menu:
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║            📚  Smart Library Management System  📚          ║
+║              Smart Library Management System                 ║
 ╚══════════════════════════════════════════════════════════════╝
 
 ┌──────────────────────────────────────┐
@@ -140,7 +140,3 @@ OK
 ```
 
 ---
-
-## 📄 License
-
-This project is intended for educational purposes. Feel free to modify and extend it.
